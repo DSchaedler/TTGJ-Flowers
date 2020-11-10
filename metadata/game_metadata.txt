@@ -1,6 +1,6 @@
-#devid=deeschaedler
-#devtitle=Dee Schaeder
-#gameid=TTGJ-Flowers
-#gametitle=TTGJ Flower Collecting
-#version=0.1
-#icon=metadata/icon.png
+devid=deeschaedler
+devtitle=Dee Schaeder
+gameid=TTGJ-Flowers
+gametitle=TTGJ Flower Collecting
+version=0.1
+icon=sprites/flower.png
