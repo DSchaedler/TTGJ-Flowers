@@ -37,6 +37,8 @@ SPRITES = {
 
 def tick args
   scene_main(args)
+  args.outputs.labels << [args.grid.left + 10, args.grid.top - 10, "Framerate: #{args.gtk.current_framerate.round}"]
+
 end
 
 def scene_main args
